@@ -1,0 +1,351 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.container1 {
+    background-image: url(images/pexels-my-car-key-hero-17124738.jpg);
+    color: white;
+    font-size: 21px;
+    height: 800px;
+    width: 100%;
+    background-size: 100% 800px;
+    background-size: cover;
+}
+
+.container1 i {
+    color: rgb(255, 230, 0);
+    margin-right: 10px;
+    font-size: 23px;
+}
+
+.flex1 {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.flex2 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.box1 {
+    background-color: rgb(255, 230, 0);
+    padding: 5px 60px 5px 30px;
+    color: black;
+    float: left;
+}
+
+.box1 h3 {
+    font-size: 20px;
+}
+
+.img1 {
+    width: 400px;
+    height: 300px;
+}
+
+.box2 {
+    background-color: darkblue;
+    border: 5px solid white;
+    padding: 20px;
+    width: 350px;
+}
+
+.box3 {
+    background-color: rgb(255, 230, 0);
+    padding: 20px;
+    color: black;
+    margin-top: -50px;
+}
+
+.card1 {
+    background-color: rgb(134, 134, 134, 0.8);
+    color: white;
+    width: 160px;
+    height: 160px;
+    padding: 20px;
+    margin-right: 30px;
+}
+
+.card1 img {
+    width: 80px;
+    margin-left: 30px;
+}
+
+.input {
+    height: 25px;
+    margin-bottom: 15px;
+}
+
+.comment {
+    height: 25px;
+    width: 350px;
+}
+
+.container2 h1 {
+    text-align: center;
+}
+
+.card2 {
+    width: 200px;
+    height: 250px;
+    border: 5px solid darkblue;
+    display: flex;
+    flex-direction: column;
+    padding: 18px 20px;
+}
+
+.card2 p {
+    font-size: 20px;
+    color: #333;
+    margin-top: 10px;
+    text-align: center;
+    font-weight: 700;
+    color: rgb(65, 65, 248);
+}
+
+.card2 img {
+    width: 50%;
+    height: 50%;
+    margin: 0 auto;
+}
+
+.card2:hover {
+    background-color: darkblue;
+    color: white;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.container3 {
+    background-color: darkblue;
+    padding-top: 30px;
+}
+
+.container5 {
+    width: 100%;
+    height: 300px;
+    background: url("images/pexels-my-car-key-hero-17124738.jpg") no-repeat center center;
+    background-size: cover;
+}
+
+.text {
+    color: white;
+}
+
+.flex3 {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.img {
+    width: 400px;
+}
+
+.img2 {
+    width: 200px;
+    height: 200px;
+}
+
+.img3 {
+    width: 90px;
+    height: 90px;
+    margin-top: 20px;
+}
+
+.img4 {
+    width: 150px;
+}
+
+.line {
+    background-color: rgb(255, 230, 0);
+    width: 500px;
+    height: 10px;
+}
+
+.card5 {
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(212, 212, 212);
+    margin-bottom: 20px;
+    margin-right: 20px;
+}
+
+.card5 img {
+    height: 80px;
+}
+
+.text h1 {
+    text-align: center;
+}
+
+.text {
+    width: 50%;
+    padding: 3px;
+}
+
+.text p {
+    margin: 10px 0;
+    font-size: 20px;
+    padding: 10px 0;
+}
+
+.container4 {
+    background-color: rgb(0, 0, 180);
+    color: white;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+.container5 h2 {
+    text-align: end;
+}
+
+.para {
+    text-align: end;
+    font-size: 20px;
+}
+
+.card3 {
+    color: rgb(0, 0, 180);
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    margin-bottom: 20px;
+    padding: 20px;
+}
+
+.card3 img {
+    width: 90px;
+}
+
+.set img {
+    height: 50%;
+}
+
+.set p {
+    font-weight: 700;
+}
+
+.flex5 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.card5 p {
+    text-align: center;
+    font-style: italic;
+    font-size: larger;
+}
+
+.container6 {
+    background-color: rgb(0, 0, 180);
+    color: white;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+.container6 h1 {
+    text-align: center;
+    padding-top: 20px;
+}
+
+.container6 p {
+    text-align: center;
+    margin: 0 30%;
+    padding: 10px 0;
+    font-size: larger;
+    margin-bottom: 50px;
+}
+
+.container7 {
+    background-color: rgb(0, 0, 180);
+    color: white;
+    margin-top: 30px;
+    margin-bottom: 0px;
+}
+
+.container7 h1 {
+    text-align: center;
+    padding-top: 20px;
+}
+
+.container7 div h2 {
+    margin: 20px;
+}
+
+.faq {
+    display: flex;
+    flex-direction: column;
+}
+
+.question, .answer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    border: 1px solid #ccc;
+    margin-bottom: 10px;
+    cursor: pointer;
+    width: 100%;
+    margin: 0 200px;
+    background: #f2efef;
+    color: blue;
+}
+
+.plus-sign {
+    font-size: 24px;
+    cursor: pointer;
+}
+
+.question:hover {
+    background-color: rgb(71, 102, 255);
+}
+
+.box7 {
+    background-color: rgb(31, 31, 255);
+    border: 5px solid white;
+    padding: 20px;
+    width: 750px;
+    margin-top: 0px;
+}
+
+.centered-box {
+    background-image: url('images/map.png');
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+    padding-top: 0;
+}
+
+.container9 {
+    background-color: rgb(249, 249, 255);
+    padding-top: 30px;
+    color: rgb(140, 140, 255);
+    margin-top: 0;
+}
+
+.flex8 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 0;
+}
+
+.flex8 img {
+    height: 200px;
+}
